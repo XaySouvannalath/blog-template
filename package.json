@@ -5,7 +5,7 @@
     "version": "3.8.0"
   },
   "scripts": {
-    "start": "hexo server",
+    "start": "hexo server -o",
     "build": "node pre-deploy.js && hexo clean && hexo generate",
     "deploy": "npm run build && hexo deploy"
   },

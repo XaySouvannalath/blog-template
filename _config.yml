@@ -3,10 +3,10 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: Vue.js
+title: Micro finance
 subtitle:
-description: "The Progressive JavaScript Framework"
-author: Evan You
+description: "where people can get money"
+author: Saiyavong Mitthasone
 email:
 language:
 
@@ -139,7 +139,7 @@ offline:
 ## Docs: http://zespia.tw/hexo/docs/deployment.html
 deploy:
   type: git
-  repository: git@github.com:vuejs/vuejs.org.git
+  repository: https://github.com/XaySouvannalath/mf-loan-docs.github.io.git
 
 feed:
   type: atom
